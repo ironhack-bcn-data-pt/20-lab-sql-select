@@ -4,7 +4,7 @@
 
 ## Introduction
 
-In this lab you will practice how to use the `SELECT` statement which will be extremely useful in your future work as a data analyst/scientist/engineer. **You will use the `publications` database.** 
+In this lab you will practice how to use the `SELECT` statement which will be extremely useful in your future work as a data analyst/scientist/engineer. **You will use the `publications` database **  (publications.db file).
 
 You will create a `solutions.ipynb` file in the `your-code` directory to record your solutions to all challenges.
 

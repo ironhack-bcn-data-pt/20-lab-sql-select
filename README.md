@@ -6,6 +6,9 @@
 
 In this lab you will practice how to use the `SELECT` statement which will be extremely useful in your future work as a data analyst/scientist/engineer. **You will use the `publications` database **  (publications.db file).
 
+
+![Publications DB Schema](authors.png)
+
 You will create a `solutions.ipynb` file in the `your-code` directory to record your solutions to all challenges.
 
 ## Challenge 1 - Who Have Published What At Where?
